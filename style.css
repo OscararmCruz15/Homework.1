@@ -1,4 +1,10 @@
-.header{
+h1 {
+    color:greenyellow;
+}
+h2 {
+    color: blue;
+}
+Header{
     Color:Green;
 
 };
